@@ -1,0 +1,22 @@
+theme: jekyll-theme-hacker
+title: Appunti
+description: I miei appunti come studente
+url: farinagabriele.github.io
+author:
+  name: Gabriele
+  email: skype.farina@gmail.com
+  url: farinagabriele.github.io
+github:
+  repository_url: https://github.com/farinagabriele
+
+
+paginate: 3
+owner: Gabriele Farina
+year: 2024
+excerpt_separator: <!--excerpt-->
+
+
+
+url: "https://farinagabriele.github.io" #
+baseurl:
+permalink: /:title/
