@@ -243,7 +243,7 @@ F(z) &= \mathcal{Z}\{\sin(\theta t)\delta_{-1}(t)\} \\
 \end{align*}
 $$
 
-### 7. Seno smorzato $ρᵗsin(θt)δ₋₁(t)$
+### 7. Seno smorzato ρᵗsin(θt)δ₋₁(t)
 
 Applicando la proprietà del prodotto per ρᵗ al risultato precedente:
 
