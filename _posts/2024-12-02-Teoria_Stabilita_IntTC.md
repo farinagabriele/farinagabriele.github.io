@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Teoria stabilità interna T.C."
 categories: TdS
