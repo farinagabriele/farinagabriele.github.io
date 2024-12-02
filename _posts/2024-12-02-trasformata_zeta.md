@@ -14,6 +14,7 @@ $$
 dove z è una variabile complessa.
 
 <!--excerpt-->
+$$
 \begin{center}
 \renewcommand{\arraystretch}{2} % Per aumentare lo spazio verticale tra le righe
 \begin{tabular}{| c | c |}
@@ -31,7 +32,7 @@ $\dfrac{t^{[k]}}{k!} \delta_{-1}(t)$ & $\dfrac{z}{(z-1)^{k+1}}$ \\
 \hline
 \end{tabular}
 \end{center}
-
+$$
 
 ## Proprietà Principali
 
