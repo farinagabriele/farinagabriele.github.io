@@ -73,12 +73,12 @@ $$
 ## Teo. Lyapunov LTI
 
 $$
-\begin{multiline}
+\begin{multline}
 \text{Se } \exist! \ Q > 0 \ \ \text{    e simmetrica soluzione di:} \\
 A^TQ + QA = -P \\
 \text{comunque presa } P>0 \ \ \text{  (simmetrica)}\\
 \text{allora } x_e=0 \text{ è stabile asintoticamente.} \\
 \text{Vale anche il viceversa.}
-\end{multiline}
+\end{multline}
 $$
 
