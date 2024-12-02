@@ -14,25 +14,7 @@ $$
 dove z è una variabile complessa.
 
 <!--excerpt-->
-$$
-
-
-\begin{tabular}{| c | c |}
-\hline
-$\large f(t)$ & $\large \text{F(z)}$ \\
-\hline
-$\delta(t)$ & $1$ \\
-$\delta_{-1}(t)$ & $\dfrac{z}{z-1}$ \\
-$t\delta_{-1}(t)$ & $\dfrac{z}{(z-1)^2}$ \\
-$\lambda^t\delta_{-1}(t)$ & $\dfrac{z}{z-\lambda}$ \\
-$e^{i\theta t}$ & $\dfrac{z}{z-e^{i\theta}}$ \\
-$\sin(\theta t)\delta_{-1}(t)$ & $\dfrac{z\sin(\theta)}{z^2 - 2z\cos(\theta) + 1}$ \\
-$\rho^t\sin(\theta t)\delta_{-1}(t)$ & $\dfrac{\frac{z}{\rho}\sin(\theta)}{\left(\frac{z}{\rho}\right)^2 - 2\frac{z}{\rho}\cos(\theta) + 1}$ \\
-$\dfrac{t^{[k]}}{k!} \delta_{-1}(t)$ & $\dfrac{z}{(z-1)^{k+1}}$ \\
-\hline
-\end{tabular}
-
-$$
+![](../images/tabella_trasformata_Zeta.png)
 
 ## Proprietà Principali
 
