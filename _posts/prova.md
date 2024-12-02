@@ -140,7 +140,7 @@ $$
 \end{align*}
 $$
 
-### 5. Prodotto per $λᵗ$
+### 5. Prodotto per λᵗ
 
 Per il prodotto per λᵗ:
 
@@ -154,7 +154,7 @@ $$
 
 ## Calcolo dettagliato delle Trasformate Zeta
 
-### 1. Impulso unitario $δ(t)$
+### 1. Impulso unitario δ(t)
 
 L'impulso unitario è definito come:
 
@@ -173,7 +173,7 @@ F(z) &= \sum_{t=0}^{\infty} \delta(t)z^{-t} \\
 \end{align*}
 $$
 
-### 2. Gradino unitario $δ₋₁(t)$
+### 2. Gradino unitario δ₋₁(t)
 
 Il gradino unitario è definito come:
 
@@ -192,7 +192,7 @@ F(z) &= \sum_{t=0}^{\infty} z^{-t} \\
 \end{align*}
 $$
 
-### 3. Rampa $tδ₋₁(t)$
+### 3. Rampa tδ₋₁(t)
 
 Usando la proprietà della moltiplicazione per t:
 
@@ -206,7 +206,7 @@ $$
 \end{align*}
 $$
 
-### 4. Esponenziale $λᵗδ₋₁(t)$
+### 4. Esponenziale λᵗδ₋₁(t)
 
 Calcoliamo direttamente la serie:
 
@@ -230,7 +230,7 @@ F(z) &= \sum_{t=0}^{\infty} e^{i\theta t} z^{-t} \\
 \end{align*}
 $$
 
-### 6. Seno $sin(θt)δ₋₁(t)$
+### 6. Seno sin(θt)δ₋₁(t)
 
 Usando la formula di Eulero:
 
