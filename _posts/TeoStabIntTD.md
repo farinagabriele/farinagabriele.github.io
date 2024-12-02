@@ -87,4 +87,4 @@ A^TQA - Q = -P \\
 \end{multline}
 $$
 
-a
+
