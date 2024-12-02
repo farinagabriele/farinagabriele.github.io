@@ -24,9 +24,9 @@ $$
 
 $$
 \begin{multline}
-\text{S.A: } \ \forall \varepsilon >0 \ \exist \delta_{\varepsilon}>0 : \ \|x_0-x_e\| \leq \delta_{\varepsilon} \Rightarrow \|x(t)-x_e\| \leq \varepsilon \\
+\text{S.A: } \ \forall \varepsilon >0 \ \exists \delta_{\varepsilon}>0 : \ \|x_0-x_e\| \leq \delta_{\varepsilon} \Rightarrow \|x(t)-x_e\| \leq \varepsilon \\
 \text{S.S: } \ \text{S.A} \ + \lim_{t \to \infty} \|x(t)-x_e\| =0 \\ 
-\text{Inst: } \ \exist \varepsilon >0 \ | \ \forall \delta_{\varepsilon}>0 \ \exist \ x_0: \ \|x_0-x_e\| \leq \delta_{\varepsilon} \bigwedge\|x(t)-x_e\| > \varepsilon
+\text{Inst: } \ \exists \varepsilon >0 \ | \ \forall \delta_{\varepsilon}>0 \ \exists \ x_0: \ \|x_0-x_e\| \leq \delta_{\varepsilon} \bigwedge\|x(t)-x_e\| > \varepsilon
 \end{multline}
 $$
 
@@ -78,11 +78,13 @@ $$
 ## Teo. Lyapunov LTI
 
 $$
-\text{Se } \exist! \ Q > 0 \ \ \text{    e simmetrica soluzione di:} \\
+\begin{multline}
+\text{Se } \exists ! \ Q > 0 \ \ \text{    e simmetrica soluzione di:} \\
 A^TQA - Q = -P \\
 \text{comunque presa } P>0 \ \ \text{  (simmetrica)}\\
 \text{allora } x_e=0 \text{ è stabile asintoticamente.} \\
 \text{Vale anche il viceversa.}
+\end{multline}
 $$
 
 a
