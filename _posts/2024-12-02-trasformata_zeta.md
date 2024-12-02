@@ -15,18 +15,23 @@ dove z è una variabile complessa.
 
 <!--excerpt-->
 \begin{center}
-\begin{tabular}{ c c }
+\renewcommand{\arraystretch}{2} % Per aumentare lo spazio verticale tra le righe
+\begin{tabular}{| c | c |}
+\hline
 $\large f(t)$ & $\large \text{F(z)}$ \\
-$\large\delta(t)$ & | $\large1$ | \\
-$\large\delta_{-1}(t)$ & $\huge \frac{z}{z-1}$ \\
-$\large t\delta_{-1}(t)$ & $\huge \frac{z}{(z-1)^2}$ \\
-$\large \lambda^t\delta_{-1}(t)$ & $\huge \frac{z}{z-\lambda}$ \\
-$\large e^{i\theta t}$ & $\huge \frac{z}{z-e^{i\theta}}$ \\
-$\large \sin(\theta t) \delta_{-1}(t)$ & $\huge \frac{z\sin(\theta)}{z^2 - 2 z \cos(\theta) + 1}$  \\
-$\large \rho^t\sin(\theta t)\delta_{-1}(t)$ & $\huge \frac{\frac{z}{\rho}\sin(\theta)}{(\frac{z}{\rho})^2 - 2\\ \frac{z}{\rho} & \cos(\theta) + 1}$  \\
-$\huge \frac{t^{[k]}}{k!}$ & $\large \delta_{-1}(t)$ | $\huge \frac{z}{(z-1)^{k+1}}$ \\
+\hline
+$\delta(t)$ & $1$ \\
+$\delta_{-1}(t)$ & $\dfrac{z}{z-1}$ \\
+$t\delta_{-1}(t)$ & $\dfrac{z}{(z-1)^2}$ \\
+$\lambda^t\delta_{-1}(t)$ & $\dfrac{z}{z-\lambda}$ \\
+$e^{i\theta t}$ & $\dfrac{z}{z-e^{i\theta}}$ \\
+$\sin(\theta t)\delta_{-1}(t)$ & $\dfrac{z\sin(\theta)}{z^2 - 2z\cos(\theta) + 1}$ \\
+$\rho^t\sin(\theta t)\delta_{-1}(t)$ & $\dfrac{\frac{z}{\rho}\sin(\theta)}{\left(\frac{z}{\rho}\right)^2 - 2\frac{z}{\rho}\cos(\theta) + 1}$ \\
+$\dfrac{t^{[k]}}{k!} \delta_{-1}(t)$ & $\dfrac{z}{(z-1)^{k+1}}$ \\
+\hline
 \end{tabular}
 \end{center}
+
 
 ## Proprietà Principali
 
