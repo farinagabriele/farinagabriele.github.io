@@ -137,8 +137,10 @@ Considerare il polinomio quadratico associato alla riga superiore: sostituire la
 Ex.
 
 $$
+\begin{multline}
 4 \ | \ 1 \ 3 \ 1 \ \\
 3 \ | \ 0 \ 0
+\end{multline}
 $$
 
 Il polinomio quadratico è 
