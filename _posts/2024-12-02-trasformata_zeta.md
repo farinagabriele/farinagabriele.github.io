@@ -14,16 +14,19 @@ $$
 dove z è una variabile complessa.
 
 <!--excerpt-->
-| $\large f(t)$ | $\large \text{F(z)}$ |
-| --- | --- |
-| $\large\delta(t)$ | $\large1$ |
-| $\large\delta_{-1}(t)$ | $\huge \frac{z}{z-1}$ |
-| $\large t\delta_{-1}(t)$ | $\huge \frac{z}{(z-1)^2}$ |
-| $\large \lambda^t\delta_{-1}(t)$ | $\huge \frac{z}{z-\lambda}$ |
-| $\large e^{i\theta t}$ | $\huge \frac{z}{z-e^{i\theta}}$ |
-| $\large \sin(\theta t) \delta_{-1}(t)$ | $\huge \frac{z\sin(\theta)}{z^2 - 2 z \cos(\theta) + 1}$  |
-| $\large \rho^t\sin(\theta t)\delta_{-1}(t)$ | $\huge \frac{\frac{z}{\rho}\sin(\theta)}{(\frac{z}{\rho})^2 - 2 \frac{z}{\rho} \cos(\theta) + 1}$  |
-| $\huge \frac{t^{[k]}}{k!}$ $\large \delta_{-1}(t)$ | $\huge \frac{z}{(z-1)^{k+1}}$ |
+\begin{center}
+\begin{tabular}{ c c }
+$\large f(t)$ & $\large \text{F(z)}$ \\
+$\large\delta(t)$ & | $\large1$ | \\
+$\large\delta_{-1}(t)$ & $\huge \frac{z}{z-1}$ \\
+$\large t\delta_{-1}(t)$ & $\huge \frac{z}{(z-1)^2}$ \\
+$\large \lambda^t\delta_{-1}(t)$ & $\huge \frac{z}{z-\lambda}$ \\
+$\large e^{i\theta t}$ & $\huge \frac{z}{z-e^{i\theta}}$ \\
+$\large \sin(\theta t) \delta_{-1}(t)$ & $\huge \frac{z\sin(\theta)}{z^2 - 2 z \cos(\theta) + 1}$  \\
+$\large \rho^t\sin(\theta t)\delta_{-1}(t)$ & $\huge \frac{\frac{z}{\rho}\sin(\theta)}{(\frac{z}{\rho})^2 - 2\\ \frac{z}{\rho} & \cos(\theta) + 1}$  \\
+$\huge \frac{t^{[k]}}{k!}$ & $\large \delta_{-1}(t)$ | $\huge \frac{z}{(z-1)^{k+1}}$ \\
+\end{tabular}
+\end{center}
 
 ## Proprietà Principali
 
