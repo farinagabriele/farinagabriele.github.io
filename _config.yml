@@ -15,14 +15,6 @@ owner: Gabriele Farina
 year: 2024
 excerpt_separator: <!--excerpt-->
 
- 
- markdown: kramdown
- kramdown:
-   math_engine: mathjax
-   math_engine_opts:
-     preview: false
- 
-
 
 
 url: "https://farinagabriele.github.io" #
