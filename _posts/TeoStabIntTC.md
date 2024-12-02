@@ -50,7 +50,7 @@ $$
 \begin{align}
 \text{S.A: } \|\Phi(t)\|\le \Phi_0 \ \bigwedge \ \lim_{t \to \infty} {\Phi(t)} = 0  \iff \text{Re}(\Lambda) < 0 \\
  \text{S.S: } \|\Phi(t)\|\le \Phi_0 \iff \text{Re}(\Lambda) \le 0\\ 
-\text{Inst: } \ldots \iff \exist \lambda \in \Lambda \ | \ \text{Re}(\lambda) > 0
+\text{Inst: } \ldots \iff \exists \lambda \in \Lambda \ | \ \text{Re}(\lambda) > 0
 \end{align}
 $$
 
@@ -73,10 +73,12 @@ $$
 ## Teo. Lyapunov LTI
 
 $$
+\begin{multiline}
 \text{Se } \exist! \ Q > 0 \ \ \text{    e simmetrica soluzione di:} \\
 A^TQ + QA = -P \\
 \text{comunque presa } P>0 \ \ \text{  (simmetrica)}\\
 \text{allora } x_e=0 \text{ è stabile asintoticamente.} \\
 \text{Vale anche il viceversa.}
+\end{multiline}
 $$
 
