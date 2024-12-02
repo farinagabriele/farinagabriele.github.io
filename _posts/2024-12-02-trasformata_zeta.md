@@ -16,7 +16,7 @@ dove z è una variabile complessa.
 <!--excerpt-->
 $$
 
-\renewcommand{\arraystretch}{2} % Per aumentare lo spazio verticale tra le righe
+
 \begin{tabular}{| c | c |}
 \hline
 $\large f(t)$ & $\large \text{F(z)}$ \\
