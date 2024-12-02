@@ -68,6 +68,7 @@ $$
 Costruiamo la seguente tabella
 
 $$
+\begin{multline}
 n \ \ \ \ | \ a_n \ a_{n-2} \ a_{n-4} \ \ \ \ \ \ldots \\
 n-1 \ | \ a_{n-1} \ a_{n-3} \ a_{n-5} \ \ldots \\
 n-2 \ | \ b_{n-2} \ b_{n-3} \ b_{n-4} \ \ldots \\
@@ -75,6 +76,7 @@ n-3 \ | \ c_{n-3} \ c_{n-4} \ c_{n-5} \ \ldots \\
 \vdots \\
 1 \ | \ r_1 \\
 0 \ | \ s_1
+\end{multline}
 $$
 
 Dove i coefficienti delle righe successive si calcolano come:
