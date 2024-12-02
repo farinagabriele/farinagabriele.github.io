@@ -17,8 +17,10 @@ $$
 ## Def. punto di equilibrio
 
 $$
+\begin{multline}
 x(t+1) = f(x,u) \\
 x_e \ | \  f(x_e, 0) = x_e
+\end{multline}
 $$
 
 ## Definizioni epsilon-delta
