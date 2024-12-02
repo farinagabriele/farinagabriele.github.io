@@ -107,9 +107,9 @@ E così via fino ad esaurire tutti i termini.
 
 ## Teorema di Routh
 
-La prima colonna $a_n, \ a_{n-1}, \ b_{n-2}, \ c_{n-3}, \ldots$ si interpreta come i coefficienti del polinomio nella regola di Cartesio.
+La prima colonna $$a_n, \ a_{n-1}, \ b_{n-2}, \ c_{n-3}, \ldots$$ si interpreta come i coefficienti del polinomio nella regola di Cartesio.
 
-Il polinomio ha tutte radici a parte reale negativa $\iff$ci sono solo permanenze.
+Il polinomio ha tutte radici a parte reale negativa $$\iff$$ ci sono solo permanenze.
 
 Ad ogni variazione corrisponde una radice a parte reale positiva.
 
@@ -119,9 +119,9 @@ E’ possibile moltiplicare una riga della tabella per uno scalare strettamente 
 
 ## Casi di eccezione (i)
 
-Una riga (dispari) ha $j-1$ zeri e poi elementi non nulli.
+Una riga (dispari) ha $$j-1$$ zeri e poi elementi non nulli.
 
-Sostituire tale riga  con una ottenuta sommando all’i-esimo elemento della riga l’elemento di posto $(i+j)$ della stessa riga moltiplicati per $(-1)^j$.
+Sostituire tale riga  con una ottenuta sommando all’i-esimo elemento della riga l’elemento di posto $$(i+j)$$ della stessa riga moltiplicati per $$(-1)^j$$.
 
 Ex.
 
