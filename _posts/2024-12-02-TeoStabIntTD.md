@@ -7,21 +7,14 @@ tags: Control Egineering
 ## Def. punto di equilibrio
 
 $$
-\begin{multline}
+\begin{align*}
 x(t+1) = f(x,u) \\
 x_e \ | \  f(x_e, 0) = x_e
-\end{multline}
+\end{align*}
 $$
 
 <!--excerpt-->
-## Def. punto di equilibrio
 
-$$
-\begin{multline}
-x(t+1) = f(x,u) \\
-x_e \ | \  f(x_e, 0) = x_e
-\end{multline}
-$$
 
 ## Definizioni epsilon-delta
 
