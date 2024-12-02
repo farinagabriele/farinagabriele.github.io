@@ -55,7 +55,7 @@ $$
 \begin{align}
 \text{S.A: } \|\Phi(t)\|\le \Phi_0 \ \bigwedge \ \lim_{t \to \infty} {\Phi(t)} = 0  \iff |\text{Re}(\Lambda)| < 1 \\
  \text{S.S: } \|\Phi(t)\|\le \Phi_0 \iff \ |\text{Re}(\Lambda)| \le 1\\ 
-\text{Inst: } \ldots \iff \exist \lambda \in \Lambda \ | \ \ \text{Re}(\lambda) > 1
+\text{Inst: } \ldots \iff \exists \lambda \in \Lambda \ | \ \ \text{Re}(\lambda) > 1
 \end{align}
 $$
 
